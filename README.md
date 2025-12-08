@@ -4,6 +4,10 @@
 
 ---
 
+### 👉 [Скачать APK](https://github.com/Zorro-Mamaev/Russian/releases/download/release/Russian_app.apk)
+
+---
+
 ## 🧩 Функции
 - Теория
 - Практика

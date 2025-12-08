@@ -4,7 +4,7 @@
 
 ---
 
-### 👉 [Скачать APK](https://github.com/Zorro-Mamaev/Russian/releases/download/release/Russian_app.apk)
+### 👉 [Скачать APK](https://github.com/Zorro-Mamaev/Russian/releases/latest/download/Russian_app.apk)
 
 ---
 
